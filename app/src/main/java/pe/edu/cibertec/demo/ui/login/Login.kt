@@ -17,7 +17,6 @@ import pe.edu.cibertec.demo.ui.theme.DemoTheme
 // se agrega @Composable para agregar gui
 @Composable
 fun Login(){
-    // hola mundo esta parte esta siendo modificada
     Column(
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
